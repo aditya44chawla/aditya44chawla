@@ -13,7 +13,7 @@ Senior Business & Data Analyst | Business Documentation (PRD, BRD, POC) | Data V
 
 - 📂 Past Role: **Data Analyst at Fynd, India**  
 
-- 🌐 My professional portfolio: **[View My Portfolio](https://your-portfolio-link.com)**  
+- 🌐 My professional portfolio: **[View My Portfolio](https://chawladitya.netlify.app/)**  
 
 - 👨‍💻 All of my projects are available at [**My GitHub Portfolio**](https://github.com/aditya44chawla)  
 
