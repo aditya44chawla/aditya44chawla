@@ -34,9 +34,6 @@ Senior Business & Data Analyst | Business Documentation (PRD, BRD, POC) | Data V
 <a href="https://linkedin.com/in/aditya-c-378715173" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://your-portfolio-link.com" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25694.png" alt="Portfolio" height="30" width="30" />
-</a>
 </p>
 
 ---
